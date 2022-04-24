@@ -1,8 +1,7 @@
-<!-- docs/_sidebar.md -->
+# Razze
 
-- [Intro](/#main)
-- Razze di Gioco
-  - [Indice](/pages/races/index.md)
+## Razze giocabili
+
   - [Lumeris](/pages/races/lumeris.md)
   - [Vodyani](/pages/races/vodyani.md)
   - [Vaulters](/pages/races/vaulters.md)
@@ -11,5 +10,8 @@
   - [V'orian](/pages/races/vorian.md)
   - [Mezari](/pages/races/mezari.md)
 
-- Tecnologia
-  - [Equipaggiamento](/pages/tech/tools.md)
+## Altre razze
+
+  - [Lumeris](/pages/races/lumeris.md)
+  - [Vodyani](/pages/races/vodyani.md)
+  - [Vaulters](/pages/races/vaulters.md)
