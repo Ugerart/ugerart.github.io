@@ -1,4 +1,4 @@
-# Equipaggiamento
+# Aereonave
 
 In sviluppo...
 

@@ -12,4 +12,6 @@
   - [Mezari](/pages/races/mezari.md)
 
 - Tecnologia
-  - [Equipaggiamento](/pages/tech/tools.md)
+  - [Equipaggiamento - IN SVILUPPO](/pages/tech/tools.md)
+  - [Cyberware - IN SVILUPPO](/pages/tech/cyberware.md)
+  - [Aereonave - IN SVILUPPO](/pages/tech/ship.md)
