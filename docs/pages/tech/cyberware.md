@@ -2,7 +2,7 @@
 
 Ogni creatura ha la possibilità di modificare il corpo del proprio personaggio attraverso innesti bio-tecnologici volti a migliorare le proprie prestazioni o che permettano di acquisire nuove capacità, i cosiddetti *Cyberware*.
 
-!> **ATTENZIONE** I più invasivi avranno necessità di una robusta corporatura per poter essere istallati 
+!> **ATTENZIONE** I più invasivi avranno necessità di una robusta corporatura per poter essere istallati. Ogni *Cyberware* avrà specificato un 
 
 ## Tipologia
 
