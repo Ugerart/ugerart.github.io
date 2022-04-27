@@ -60,6 +60,13 @@ body.close .sidebar{
   body .sidebar-toggle{
     width: 2.6rem;
     padding: 13px;
+    background-color: #34495e;
+  }
+  body.close .sidebar-toggle{
+    width: 100%;
+    background-color: #34495e;
+  }
+  body .sidebar-toggle span{
     background-color: white;
   }
 }
