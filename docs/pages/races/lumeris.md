@@ -9,20 +9,26 @@ La società di Lumeris è stata a lungo organizzata intorno a famiglie, clan e d
 Con l'aristocrazia un lontano ricordo e nessun fervore religioso drammatico che guida la sua popolazione, lo status economico è l'unica grande eredità da lasciare ai propri discendenti. Di conseguenza la società di Lumeris ruota attorno al commercio; si cerca la carriera e la passione nella vita nell'interesse di assicurare la ricchezza per il futuro della propria famiglia e di migliorare la propria posizione al suo interno.
 
 ## Le quattro famiglie
-Il governo Lumeris è anche conosciuto come le Quattro Famiglie poiché questi quattro blocchi di potere hanno gestito la società dall'ombra per molti anni. Gli allineamenti tradizionali sono la famiglia Meos che gestisce fattorie e i prodotti agricoli, la Omokar che gestisce le questioni relative all'edilizia e all'unione, le navi e i porti di costruzione Lancellum e l'Arrakyo che si occupa di politica e legislazione.
+Il governo Lumeris è anche conosciuto come le Quattro Famiglie, questi hanno gestito la società dall'ombra per molti anni: la famiglia Meos che gestisce fattorie e i prodotti agricoli, la Omokar gestisce le questioni relative all'edilizia e all'unione, le navi e i porti sono in gestione dei Lancellum e l'Arrakyo che si occupa di politica e legislazione.
 
-L'attuale leader è **Jenestra Omalfi'Meos**, votato dalle Quattro Famiglie.
-
-![](../../assets/custom_theme/space/images/lumeris/2.jpg)
+![](../../assets/custom_theme/space/images/lumeris/5.webp)
 
 Mentre le lotte intestine e le pugnalate alle spalle si verificano su base regolare nell'interesse della vendetta o dei profitti, vi è un consenso sul fatto che le famiglie devono coordinarsi per affrontare la grande opportunità che è la galassia.
 
+Pertanto ogni famiglia governa sulle altre con un governo di 10 anni a rotazione.
+L'attuale leader è *Jenestra Omalfi'Meos*, della famiglia Lancellum.
+
+![](../../assets/custom_theme/space/images/lumeris/2.jpg)
 
 ## Jenes
+
 ![](../../assets/custom_theme/space/images/lumeris/3.jpg)
+
 Jenes è un pianeta pieno di isole tropicali e tempeste, è la casa della civiltà Lumeris e la base di partenza delle Quattro Famiglie che la governano. Il loro ambiente oceanico richiedeva la capacità di adattarsi all'acqua, tuttavia la necessità di creare fuoco e costruire tecnologie avanzate li ha spinti verso la terra. Da lì stanno ora sfidando gli stessi cieli, portando il loro stile unico di sviluppo economico a una galassia ignara.
 
 ![](../../assets/custom_theme/space/images/lumeris/4.jpg)
+![](../../assets/custom_theme/space/images/lumeris/6.webp)
+![](../../assets/custom_theme/space/images/lumeris/7.webp)
 
 
 ![](../../assets/custom_theme/space/images/lumeris/png-4.jpg)

@@ -17,18 +17,23 @@ Il pianeta natale dei Vodyani era un mondo povero ma temperato, e la fragilità 
 
 
 ## La chiesa dei santi virtuali
-![](../../assets/custom_theme/space/images/vodyani/3.jpg)
+
 La società di Vodyani è organizzata come una chiesa, sia dal punto di vista formale che gerarchico. Poiché sono stati salvati dall'estinzione dalla tecnologia, è naturale che a loro volta adorino coloro che maggiormente incarnano questo concetto.
+
+![](../../assets/custom_theme/space/images/vodyani/3.jpg)
 
 La preghiera e lo studio sono parti importanti della vita di tutti i giorni e, poiché lo studio coinvolge rovine, reliquie e tecnologia antica, gran parte della loro attività religiosa risulta comunque molto pragmatica.
 
-I Vodyani vengono attentamente monitorati e dal momento che il controllo meccanico del "panno", indossato da ogni Vodyano, è nelle mani della Chiesa, c'è poco spazio per il pensiero indipendente e molto meno per la ribellione.
+I Vodyani vengono attentamente monitorati e dal momento che il controllo meccanico del "panno", indossato da ogni Vodyano, è nelle mani della *Chiesa*, c'è poco spazio per il pensiero indipendente e molto meno per la ribellione.
 
-![](../../assets/custom_theme/space/images/vodyani/4.jpg)
+![](../../assets/custom_theme/space/images/vodyani/11.webp)
 
-Ci sono molti dipartimenti e dirigenti all'interno della Chiesa dei Santi, ma il potere è centralizzato in un'autorità suprema: il Gerarca. Questa creatura, proveniente da una delle potenti organizzazioni che compongono la società Vodyani, è la massima autorità per gli affari religiosi e laici. L'attuale gerarca è Isyara Shaida, famosa per il suo rigore e pugno di ferro.
+Ci sono molti dipartimenti e dirigenti all'interno della *Chiesa dei Santi*, ma il potere è centralizzato in un'autorità suprema: il *Gerarca*. Questa creatura, proveniente da una delle potenti organizzazioni che compongono la società Vodyani, è la massima autorità per gli affari religiosi e laici. L'attuale gerarca è **Isyara Shaida**, famosa per il suo rigore e pugno di ferro.
 
-Altrettanto famoso è suo fratello, l'eretico Isyander Shaida, che ha quasi distrutto la società quando ha guidato una rivolta contro il suo stesso popolo.
+Altrettanto famoso è suo fratello, l'eretico **Isyander Shaida**, che ha quasi distrutto la società quando ha guidato una rivolta contro il suo stesso popolo.
 
+![](../../assets/custom_theme/space/images/vodyani/9.webp)
+![](../../assets/custom_theme/space/images/vodyani/10.webp)
+![](../../assets/custom_theme/space/images/vodyani/12.webp)
 
 ![](../../assets/custom_theme/space/images/vodyani/8.jpg) ![](../../assets/custom_theme/space/images/vodyani/7.jpg) ![](../../assets/custom_theme/space/images/vodyani/6.jpg) ![](../../assets/custom_theme/space/images/vodyani/5.jpg)

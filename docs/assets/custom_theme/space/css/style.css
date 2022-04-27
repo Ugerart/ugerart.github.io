@@ -20,9 +20,9 @@ body:before {
 .content{
   left:370px;
 }
+
 /* SIDEBAR */
 .sidebar{
-  display: block;
   padding-left: 70px; width: 370px;
 }
 .sidebar h1{

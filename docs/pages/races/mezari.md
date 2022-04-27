@@ -30,6 +30,10 @@ Il governo dell'Impero Unito preferisce che sia lo stesso Imperatore ad essere a
 La società dell'Impero è orientata verso la creazione di macchine sempre più potenti di conquista e controllo. Il ragionamento è che, all'interno di un dato braccio di una galassia, i pianeti vitali e le risorse disponibili sono limitate, perciò l'Impero deve impadronirsene prima delle altre razze, altrimenti verrebbe messa a rischio la sua egemonia.
 
 ![](../../assets/custom_theme/space/images/mezari/6.jpg)
+![](../../assets/custom_theme/space/images/mezari/11.webp)
+![](../../assets/custom_theme/space/images/mezari/12.webp)
+![](../../assets/custom_theme/space/images/mezari/13.webp)
+![](../../assets/custom_theme/space/images/mezari/14.webp)
 
 
 

@@ -21,8 +21,13 @@ Con un forte e condiviso senso della tradizione e della comunità, gli Vaulters 
 
 
 ## Argosty
+
 ![](../../assets/custom_theme/space/images/vaulters/4.jpg)
+
 Gli Aurigiani non hanno un pianeta natale; furono cacciati da Auriga dal suo inevitabile declino e cercarono di trovarne uno nuovo. Mentre l'Argosty adempie al suo ruolo di nave madre è anche considerata la patria di ogni Aurigiano. Resta comunque chiaro a tutti l'esigenza di trovare un pianeta adatto e stabilire una colonia il più rapidamente possibile. Il tempo sta scadendo per la nave, e di conseguenza anche quello gli stessi Aurigiani.
 
+![](../../assets/custom_theme/space/images/vaulters/9.webp)
+![](../../assets/custom_theme/space/images/vaulters/10.webp)
+![](../../assets/custom_theme/space/images/vaulters/11.webp)
 
 ![](../../assets/custom_theme/space/images/vaulters/8.jpg) ![](../../assets/custom_theme/space/images/vaulters/7.jpg) ![](../../assets/custom_theme/space/images/vaulters/6.jpg) ![](../../assets/custom_theme/space/images/vaulters/5.jpg)
