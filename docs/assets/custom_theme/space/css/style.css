@@ -22,6 +22,7 @@ body:before {
 }
 /* SIDEBAR */
 .sidebar{
+  display: block;
   padding-left: 70px; width: 370px;
 }
 .sidebar h1{
