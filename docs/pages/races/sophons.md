@@ -61,7 +61,7 @@ I Sophons sono una razza minuta ma molto arguta, tendenzialmente sono deboli ma 
 - **Pistola ad Aghi**: alcuni Sophons sono esperti nel maneggiare Pistole ad Aghi per sedare e abbattere avversari più grandi o per curare i propri alleati. Un Sophons con questo tratto razziale può ricaricare come Azione Rapida armi a proiettili con la proprietà speciale delle armi *Proprietà/Iniezione|Iniezione*.
 - **Conoscenze Applicate**: Una volta al giorno prima di effettuare una Prova di Abilità o un Tiro Salvezza contro una creatura, un Sophons può utilizzare il suo bonus nell'abilità associata a quel tipo di creatura (per esempio Scienza Biologica per una Melma o Misticismo per un Esterno) anziché il suo bonus normale.
 - **Distratti**: i Sophons imparano con difficoltà a osservare l'ambiente che li circonda e le creature che hanno attorno, senza riuscire ad interpretare i segnali di pericolo intorno a loro. I Sophons con questo tratto razziale scelgono Percezione o Intuizione e prendono un Malus Razziale -3 alle prove dell'abilità selezionata. Una volta fatta, questa scelta non può essere cambiata.
-- **Aspetto peculiare**: per i Vodiani risulta quasi impossibile cammuffarsi nell'aspetto come una qualsiasi altra razza conosciuta visto il suo aspetto così peculiare. Prendono -20 alle prove di cammuffarsi in un'altra razza.
+- **Aspetto peculiare**: per i Sophons risulta quasi impossibile cammuffarsi nell'aspetto come una qualsiasi altra razza conosciuta visto il suo aspetto così peculiare. Prendono -20 alle prove di cammuffarsi in un'altra razza.
 
 ##### Tratti Razziali Variabili
 

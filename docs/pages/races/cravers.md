@@ -56,7 +56,7 @@ Tutti i Cravers fanno parte di una complessa rete di menti che permette a tutta 
 - **Pelle d'Acciaio**: alcuni Cravers hanno una pelle coriacea dovuta ad anni di dure condizioni, all'addestramento intenso o ad alterazioni corporee. Hanno RD 1/- che, al 10° Livello del Personaggio, sale a RD 2/-. Questa RD é cumulativa con altre forme di RD.
 - **Difesa della Rete**: i Cravers danno grande valore all'amicizia e sono continuamente in guardia per proteggere i compagni. Una volta al giorno (+1 per modificatore di Int), come Reazione, quando un alleato entro 3 metri da un Cravers con questo tratto effettua un TS, il Cravers può permettere a quell'alleato di tirare due volte per il TS e tenere il risultato più alto.
 - **Irrobustito**: I Cravers nascono su di un pianeta ostile e nel corso delle generazioni, hanno sviluppato un'immunità a queste condizioni. I Cravers hanno Bonus Razziale +2 ai TS sulla Tempra contro i pericoli ambientali e sono immuni alle Radiazioni.
-- **Aspetto peculiare**: per i Vodiani risulta quasi impossibile cammuffarsi nell'aspetto come una qualsiasi altra razza conosciuta visto il suo aspetto così peculiare. Prendono -20 alle prove di cammuffarsi in un'altra razza.
+- **Aspetto peculiare**: per i Cravers risulta quasi impossibile cammuffarsi nell'aspetto come una qualsiasi altra razza conosciuta visto il suo aspetto così peculiare. Prendono -20 alle prove di cammuffarsi in un'altra razza.
 
 ##### Tratti Razziali Variabili
 

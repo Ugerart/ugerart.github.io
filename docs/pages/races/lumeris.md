@@ -55,10 +55,10 @@ Per un Lumeris è facile cambiare la forma del proprio corpo in breve tempo: com
 - **Pensieri Velenosi**: alcuni Lumeris possiedono ancora un sangue molto velenoso per la maggior parte delle creature viventi e l'evoluzione li ha portati ad estendere questa capacità persino ai loro pensieri. Se una creatura entra in contatto con il sangue di tali Lumeris o tenta di leggerne i pensieri rischia di essere colpito dal loro veleno. 1d4 For CD Tempra 10 + metà livello del Lumeris + Mod Cos
 - **Nuotatori Naturali**: i kalo hanno velocità base 9 metri e velocità di Nuotare 18 metri.
 Inoltre ottengono un hanno bonus +4 alle prove di Furtività mentre sono in acqua.
+I Lumeris hanno la regola universale delle creature Respirare Sott'Acqua.
 - **Trimorfismo**: i Lumeris cambiano velocemente la temperatura corporea in base all'ambiente circostante. Su pianeti particolarmente caldi ottengono Resistenza al fuoco 5, su quelli avvolti da nevi siderali Resistenza al freddo 5. Altrimenti possiedono Resistenza a fuoco e freddo 2, e in condizioni di caldo o freddo estremi devono tentare Tiri Salvezza su Tempra solo una volta all'ora anziché ogni 10 minuti. Un Lumeris può cumulare questa resistenza naturale con una singola altra forma di resistenza.
 - **Contrattatore**: alcuni Lumeris sembrano in grado di affascinare chiunque grazie a una combinazione di maniere amabili e proporzioni fisiche che portano le altre specie a considerarli amichevoli. Anche se non è detto che tali Lumeris siano più gentili o amichevoli, si approfittano comunque dei benefici di questa errata impressione. Hanno bonus +2 alle prove di Raggirare e a quelle di Diplomazia per cambiare l'atteggiamento di creature indifferenti.
 - **Passione per le Culture**: i Lumeris sono ansiosi di conoscere nuove culture e società: ricevono Bonus Razziale +4 alle prove di Cultura.
-I Lumeris hanno la regola universale delle creature Respirare Sott'Acqua.
 - **Suscettibile al Sale**: una manciata o più di sale o una spruzzata di acqua salata infliggono 1d6 danni a un Lumeris, e l'immersione completa nell'acqua salata gli infligge 4d6 danni per round. Questi effetti sono annullati dalle protezioni ambientali integrate nella maggior parte delle armature.
 
 ##### Tratti Razziali Variabili
