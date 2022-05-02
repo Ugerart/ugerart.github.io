@@ -38,3 +38,32 @@ La società dell'Impero è orientata verso la creazione di macchine sempre più 
 
 
 ![](../../assets/custom_theme/space/images/mezari/7.jpg) ![](../../assets/custom_theme/space/images/mezari/8.jpg) ![](../../assets/custom_theme/space/images/mezari/9.jpg) ![](../../assets/custom_theme/space/images/mezari/10.jpg)
+
+## In gioco
+
+##### Modificatori alle Caratteristiche
+
+**+2 Car,  -2 Sag, +2 Des o +2 For**
+
+Tutti i Mezari guadagnano +2 in Carisma alla creazione del personaggio. I Mezari sono tutti addestrati dalla nascita (+2 Forza o +2 Destrazza) ma spesso irruenti e sconsiderati (-2 Saggezza).
+
+!> **Mezari Reali (variante)** Alcuni Mezari, tendenzialmente di famiglia nobile, sono principalmente dediti allo studio per diventare leader e strateghi dell'impero. Tali individui, definiti di "mente avanzata", non hanno i modificatori fisici dei comuni lashunta. I modificatori alle caratteristiche di un Mezari sono Intelligenza +2, Car +2 e Cos -2**
+
+##### Tratti Razziali
+
+- **Punti Ferita**: 8
+- **Taglia e Tipo**: i Mezari sono Umanoidi Medi.
+- **Esperto**: i Mezari guadagnano un grado di Abilità aggiuntivo al 1° livello e a ogni livello successivo.
+- **Comunitarismo**: i Mezari sono abituati a lavorare in squadra. Una volta al giorno (+1 per ogni modificatore di Car), fintanto che un alleato si trova entro 3 metri, un Mezari può effettuare un solo Tiro per Colpire o Prova di Abilità due volte e scegliere il risultato maggiore.
+- **Familiarità nelle Armi**: I nani sono competenti con le Armi da Mischia Base e Avanzate e ottengono specializzazione in esse a partire dal 3° livello.
+- **Esperto nelle Armature**: I Mezari indossano armature in ogni fase del loro addestramento e hanno finito per portarle con estrema disinvoltura. Quando indossano armature ricevono Bonus Razziale +1 alla CA; quando indossano armature pesanti, la loro penalità di armatura alla prova è inferiore di 2 rispetto al normale.
+- **Esperti di guerriglia**: i Mezari eccellono nell'evitare i pericoli mettendosi al riparo. I Mezari hanno bonus aggiuntivo +2 ai TS su Riflessi e alle prove di Furtività ogni volta che hanno Copertura, Copertura Parziale o Copertura Leggera.
+- **Collaborativo**: i Mezari hanno bonus +2 alle Prove di Abilità per Aiutare un Altro e ai Tiri per Colpire per fornire Fuoco di Disturbo. Una creatura che usi l'azione Aiutare un Altro per aiutare un vlaka ottiene bonus +2 alla Prova di Abilità.
+- **Addestramento militare**: i Mezari ricevono Bonus Razziale +2 alle prove di Ingegneria, Furtività e Sopravvivenza
+
+##### Tratti Razziali Variabili
+
+- **Mago Adamantino**: i nani con questo tratto hanno Bonus Razziale +2 alla CA contro gli Attacchi di Opportunità provocati dal lancio di un incantesimo e contro le azioni preparate attivate dal lancio di incantesimi.
+Sostituisce *Esperto nelle Armature*.
+- **Controreazione**: piuttosto che addestrarsi con armi militari standard, alcuni Mezari si specializzano a tecniche di combattimento corpo a corpo. Questi ottengono Bonus Razziale +4 alla CAC contro la manovra di combattimento Riposizionare. Inoltre, quando un avversario fallisce di 5 o più una manovra di combattimento Spingere, Riposizionare o Sbilanciare contro tale Mezari, questi può tentare come Reazione una manovra di combattimento Sbilanciare contro quell'avversario.
+Sostituisce *Familiarità nelle Armi+.

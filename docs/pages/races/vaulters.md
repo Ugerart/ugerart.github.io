@@ -31,3 +31,29 @@ Gli Aurigiani non hanno un pianeta natale; furono cacciati da Auriga dal suo ine
 ![](../../assets/custom_theme/space/images/vaulters/11.webp)
 
 ![](../../assets/custom_theme/space/images/vaulters/8.jpg) ![](../../assets/custom_theme/space/images/vaulters/7.jpg) ![](../../assets/custom_theme/space/images/vaulters/6.jpg) ![](../../assets/custom_theme/space/images/vaulters/5.jpg)
+
+## In gioco
+
+##### Modificatori alle Caratteristiche
+
+**+2 a caratteristiche a scelta**
+
+I Vaulters sono una razza molto versatile.
+
+##### Tratti Razziali
+
+- **Punti Ferita**: 8
+- **Taglia e Tipo**: I Vaulters sono Umanoidi Medi.
+- **Esperto**: i Vaulters guadagnano un grado di Abilità aggiuntivo al 1° livello e a ogni livello successivo.
+- **All'Erta**: i Vaulters imparano a osservare l'ambiente che li circonda e le creature che hanno attorno, attenti a qualsiasi segnale di pericolo. I Vaulters con questo tratto razziale scelgono Percezione o Intuizione e hanno Bonus Razziale +3 alle prove dell'abilità selezionata. Una volta fatta, questa scelta non può essere cambiata.
+- **Autosufficiente**: i Vaulters ottengono Bonus Razziale +4 alle prove di Sopravvivenza.
+- **Piede Saldo**: i Vaulters ottengono Bonus Razziale +2 alle prove di Acrobazia e di Atletica.
+- **Cacciatori nati**: i Vaulters sono da sempre abili cacciatori ottengono Bonus Razziale +2 alle prove di Furtività. Inoltre, i Vaulters riducono di 5 la penalità per l'uso di Furtività mentre si muovono, e riducono di 10 la penalità alla prova di Furtività per prendere di mira.
+
+##### Tratti Razziali Variabili
+
+Essendo versatili i Vaulters imparano anche uno dei seguenti tratti a scelta, senza soostituire nessuno dei loro tratti precedenti:
+
+- **Esploratore dello Spazio**: risultato di generazioni vissute in condizioni ambientali di Bassa Gravità o Nulla, alcuni Vaulters sono particolarmente predisposti alla vita nello spazio aperto. Questi Vaulters ottengono un bonus +2 ad ogni prova condotta nello spazio o in ambientali con Bassa Gravità o Nulla, mentre prendono un -1 ad ogni prova effettuata su qualsiasi pianeta con gravità o in presenza ambiente che emuli gravità standard.
+- **Scaltrezza**: alcuni Vaulters hanno una reputazione di scaltrezza e dedizione ai furti, e a volte questa reputazione è meritata. I Vaulters con questo tratto razziale hanno bonus +2 alle prove di Raggirare e Rapidità di Mano, e quest'ultima è per loro un'abilità di classe.
+- **Vista Crepuscolare**: i Vaulters cresciuti in ambienti con un'esposizione regolare a un'intensa fonte di luce naturale, come le città del tramonto di Verces o le strutture sotterranee di Aballon, si adattano come possono a ciò che li circonda. I Vaulters con questo tratto razziale hanno Visione Crepuscolare e Bonus Razziale +2 alle prove di Percezione.

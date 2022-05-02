@@ -15,3 +15,31 @@ Entrarono nell'Era Moderna molto bruscamente, il tutto grazie ad un grande scont
 ![](../../assets/custom_theme/space/images/vorian/5.jpg)
 
 ![](../../assets/custom_theme/space/images/vorian/6.jpg)
+
+## In gioco
+
+##### Modificatori alle Caratteristiche
+
+I piccoli Vorian hanno **+2 Cos, -2 Des, -2 Car**.
+
+I giovani Vorian hanno **+2 For, +4 Cos, +2 Int, +2 Sag, -4 Des, -2 Car** (massimo giocabili).
+
+I Vorian adulti hanno **+4 For, +6 Cos, +4 Int, +2 Sag, -6 Des, -2 Car**.
+
+##### Tratti Razziali
+
+- **Punti Ferita**: 12
+- **Taglia e Tipo**: i Vorian sono Piante. I Vorian sono Piante Piccole di taglia piccola, mentre i Vorian giovani querce sono di taglia Medie, mentre i Vorian giovani querce sono di taglia Grande ma possono crescere mettendo radici fino a taglie mastodontiche.
+- **Benefici delle Piante Limitate**: i Vorian non sono solo Piante, pertanto non guadagnano le immunità standard associate alle creature di tale tipo. Hanno invece Bonus Razziale +2 ai Tiri Salvezza contro gli effetti di Influenza Mentale, Paralisi, Veleno, Polimorfismo, Sonno e Stordimento, a meno che l'effetto non specifichi di essere efficace contro le Piante.
+- **Respirazione Carbonica**: i Vorian inalano anidride carbonica ed esalano ossigeno. In situazioni di Soffocamento Lento un Vorian riduce di due il numero effettivo di creature che consumano aria, a meno che non siano presenti altre creature che respirano anidride.
+- **Fotosintesi**: i Vorain effettuano la fotosintesi per nutrirsi (sebbene siano capaci di mangiare, se lo desiderano). Un Vorian può restare senza luce (che sia luce solare o UV, come quella delle astronavi) per 3 giorni, dopo i quali deve tentare una prova di Costituzione per evitare l'Inedia.
+- **Telepatia Limitata**: i Vorian possono comunicare telepaticamente con qualsiasi creatura entro 9 metri con la quale abbiano un linguaggio in comune.
+- **Pacifista**: i Vorian hanno un indole pacifica e serafica, intraprendono un combattimento esclusivamente quando costretti. Subiscono penalità -2 ai Tiri per Colpire.
+- **Aspetto Peculiare Estremo**: per i Vorian risulta impossibile cammuffarsi nell'aspetto come una qualsiasi altra razza conosciuta visto il suo aspetto così peculiare.
+
+##### Tratti Razziali Variabili
+
+I Vorian apprendono nuovi tratti crescendo, se si gioca un piccoli si potrà scegliere uno dei seguenti tratti mentre un giovane li avrà entrambi:
+
+- **Empatia Naturale**: i Vorian hanno una comprensione empatica del mondo naturale che da loro Bonus Razziale +2 alle prove di Scienza Biologica e Sopravvivenza. Inoltre, possono usare la loro telepatia limitata per comunicare con creature del tipo Pianta non Prive di Intelletto senza conoscere linguaggi in comune.
+- **Conoscenza della Vita Passata**: scegli 2 abilità dalla seguente lista: Computer, Cultura, Ingegneria, Medicina, Misticismo, Professione (ogni Professione viene scelta separatamente), Scienza Biologica e Scienza Fisica. Il Vorian aggiunge le abilità scelte alla sua lista di abilità di classe, oppure ottiene Bonus Razziale +2 alle prove di tali abilità, se queste sono già abilità di classe.

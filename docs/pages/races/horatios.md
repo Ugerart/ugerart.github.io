@@ -43,3 +43,30 @@ Come dice Il Primo, "Non possono esistere troppi Horatios". Tuttavia, nonostante
 ![](../../assets/custom_theme/space/images/horatios/8.webp)
 ![](../../assets/custom_theme/space/images/horatios/9.webp)
 
+## In gioco
+
+##### Modificatori alle Caratteristiche
+
+**+2 a tutte le caratteristiche tranne una a scelta**
+
+Gli Horatios sono creature modificate per essere perfette essendo cloni del "primo", ma tutti vengono modificati alla loro nascita con un difetto che li limiti impedendogli di raggiungere loro padre.
+
+##### Tratti Razziali
+
+- **Punti Ferita**: 8
+- **Taglia e Tipo**: Gli Horatios sono Umanoidi Medi.
+- **Magia dei Lashunta**: Gli Horatios guadagnano le seguenti capacità magiche innate:
+A volontà:
+  - *Frastornare*
+  - *Mano Psicocinetica*
+
+1/giorno:
+  - *Individuazione dei Pensieri*
+
+(Il livello da incantatore per questi effetti è pari al livello del Horatios)
+- **Telepatia Limitata**: Gli Horatios possono comunicare telepaticamente con qualsiasi creatura con cui condividano un linguaggio entro 9 metri. Conversare tramite telepatia con più creature simultaneamente è difficile come ascoltare più persone che parlano allo stesso tempo.
+- **Vista Crepuscolare**: gli Horatios sono stati dotati di Visione Crepuscolare fino a 18m.
+- **Perfezionismo**: gli Horatios ricevono Bonus Razziale +1 a tutte le abilità.
+- **Rapido**: gli Horatios hanno velocità sul terreno 12 metri.
+- **Bilanciato**: gli Horatios hanno Bonus Razziale +2 alla CA contro le manovre di combattimento Sbilanciare, e possono alzarsi in piedi da Proni come Azione Rapida.
+- **Sospettosi**: gli Horatios hanno Bonus Razziale +2 ai Tiri Salvezza contro gli incantesimi e gli effetti di illusione.
