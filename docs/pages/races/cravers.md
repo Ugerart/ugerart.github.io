@@ -62,5 +62,5 @@ Tutti i Cravers fanno parte di una complessa rete di menti che permette a tutta 
 
 - **Ferocia innata**: quando un Cravers è ridotto a 0 Punti Ferita ma non è Morto, può continuare a combattere finchè ha energia in corpo. Quando il Cravers scende a 0 PF ed è Morente (si seguono le normali regole per i personaggi morti e morenti) può continuare ad agire normalmente per un numero di round pari al proprio livello, poi perde i sensi come di consueto. Se subisce ulteriori danni prima di questo termine, non può più agire e diventa Privo di Sensi.
 Sostituisce *Pelle d'Acciaio*.
-- **Mente della Rete**: alcuni Cravers hanno una connessione più forte con la Rete e possono attengerci per ottenere informazioni. Questi Cravers, una volta al giorno (+1 per modificatore di Int), ottengono un bonus di +8 ad un specifico tiro basato su inteligenza.
+- **Mente della Rete**: alcuni Cravers hanno una connessione più forte con la Rete e possono attingerci per ottenere informazioni. Questi Cravers, una volta al giorno (+1 per modificatore di Int), ottengono un bonus di +8 ad un specifico tiro basato su inteligenza.
 Sostituisce *Difesa della Rete*.

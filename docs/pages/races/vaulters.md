@@ -36,7 +36,7 @@ Gli Aurigiani non hanno un pianeta natale; furono cacciati da Auriga dal suo ine
 
 ##### Modificatori alle Caratteristiche
 
-**+2 a caratteristiche a scelta**
+**-2 sul carisma e +2 a 2 caratteristiche a scelta (volendo anche a carisma o due volte alla stessa caratterstica)**
 
 I Vaulters sono una razza molto versatile.
 
@@ -52,8 +52,8 @@ I Vaulters sono una razza molto versatile.
 
 ##### Tratti Razziali Variabili
 
-Essendo versatili i Vaulters imparano anche uno dei seguenti tratti a scelta, senza soostituire nessuno dei loro tratti precedenti:
+Essendo versatili i Vaulters imparano anche uno dei seguenti tratti a scelta, senza sostituire nessuno dei loro tratti precedenti:
 
-- **Esploratore dello Spazio**: risultato di generazioni vissute in condizioni ambientali di Bassa Gravità o Nulla, alcuni Vaulters sono particolarmente predisposti alla vita nello spazio aperto. Questi Vaulters ottengono un bonus +2 ad ogni prova condotta nello spazio o in ambientali con Bassa Gravità o Nulla, mentre prendono un -1 ad ogni prova effettuata su qualsiasi pianeta con gravità o in presenza ambiente che emuli gravità standard.
+- **Esploratore dello Spazio**: alcuni Vaulters sono particolarmente predisposti alla vita nello spazio aperto, predisposti grazie a diverse generazioni vissute interamente in condizioni ambientali di Bassa Gravità o Nulla. Questi Vaulters ottengono un bonus +2 ad ogni prova condotta nello spazio o in ambientali con Bassa Gravità o Nulla, mentre prendono un -1 ad ogni prova effettuata su qualsiasi pianeta con gravità o in presenza di ambiente che emulino una gravità standard.
 - **Scaltrezza**: alcuni Vaulters hanno una reputazione di scaltrezza e dedizione ai furti, e a volte questa reputazione è meritata. I Vaulters con questo tratto razziale hanno bonus +2 alle prove di Raggirare e Rapidità di Mano, e quest'ultima è per loro un'abilità di classe.
 - **Vista Crepuscolare**: i Vaulters cresciuti in ambienti con un'esposizione regolare a un'intensa fonte di luce naturale, come le città del tramonto di Verces o le strutture sotterranee di Aballon, si adattano come possono a ciò che li circonda. I Vaulters con questo tratto razziale hanno Visione Crepuscolare e Bonus Razziale +2 alle prove di Percezione.

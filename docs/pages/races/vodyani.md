@@ -51,13 +51,13 @@ Sicuri di sè e della propria predestinazione, i Vodyani mantengono una notevole
 - **Punti Ferita**: 6
 - **Taglia e Tipo**: i Vodyani sono Umanoidi di taglia Media con il [Sottotipo Androide](https://starfinder.altervista.org/wiki/Sottotipo_Androide).
 - **Costrutto Avanzato**: Sono immuni alla maggior parte delle Malattie, effetti di Influenza Mentale, Veleni e Sonno, a meno che tali effetti non influenzino specificamente i Costrutti. Non respirano né subiscono i normali effetti ambientali dovuti al vuoto.
-- **Magia Spontanea**: i Vodyani oltre ad avere il talento naturale [Potere Psichico Minore](https://starfinder.altervista.org/wiki/Potere_Psichico_Minore) ha la seguenti Capacità Magiche Innate:
+- **Magia Spontanea**: i Vodyani oltre ad avere il talento naturale [Potere Psichico Minore](https://starfinder.altervista.org/wiki/Potere_Psichico_Minore) possiedono le seguenti Capacità Magiche Innate:
   - *Trasferire Carica*
   - *Sovraccaricare Arma*
 
   (Il Livello dell'Incantatore per questi effetti è pari al livello del Vodyano.)
 - **Il Panno**: la loro tuta è il loro corpo. Anche se possono indossare altre armature fisiche, i loro punti ferita sono relativi allo stato di manutenzione del Panno. Una volta che i pv sono ridotti a zero il Vodyano muore disperdendosi. Per curare tale ferita si necessità di un intervento di alta tecnologia (CD 15, ogni successo ripara un numero di pf pari al punteggio con cui si è ottenuto un successo).
 - **Fonte di Energia Interna**: i Vodyani generano perennemente energia. Le armi energetiche che impugnano non vanno mai caricate e possono alimentare con la sola presenza celle energetiche o motori spaziali.
-- **Emozioni Sopite**: i Vodyani hanno un ricordo confuso dalle emozioni e cercano di reprimerle. Hanno penalità –2 alle prove di Intuizione, ma la CD delle prove di Intuizione contro di loro aumenta di 6.
+- **Emozioni Sopite**: i Vodyani hanno un ricordo confuso delle emozioni e cercano di reprimerle. Hanno penalità –2 alle prove di Intuizione, ma la CD delle prove di Intuizione contro di loro aumenta di 6.
 - **Resistenza delle Ombre**: i Vodyani hanno resistenza al freddo 5 e resistenza all'elettricità 5.
 - **Aspetto peculiare**: per i Vodiani risulta quasi impossibile cammuffarsi nell'aspetto come una qualsiasi altra razza conosciuta visto il suo aspetto così peculiare. Prendono -20 alle prove di cammuffarsi in un'altra razza.

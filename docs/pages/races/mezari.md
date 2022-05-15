@@ -43,7 +43,8 @@ La società dell'Impero è orientata verso la creazione di macchine sempre più 
 
 ##### Modificatori alle Caratteristiche
 
-**+2 Car,  -2 Sag, +2 Des o +2 For**
+**+2 Car e -2 Sag**
+**Inoltre ottengono un +2 Des oppure +2 For a seconda dell'addestramento che hanno avuto**
 
 Tutti i Mezari guadagnano +2 in Carisma alla creazione del personaggio. I Mezari sono tutti addestrati dalla nascita (+2 Forza o +2 Destrazza) ma spesso irruenti e sconsiderati (-2 Saggezza).
 
