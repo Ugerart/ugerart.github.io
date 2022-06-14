@@ -52,7 +52,6 @@ Per un Lumeris è facile cambiare la forma del proprio corpo in breve tempo: com
 - **Anfibio**: i Lumeris possono respirare normalmente sia acqua che aria.
 - **Guance Capienti**: i Lumeris possono immagazzinare fino a 30 cm3 di oggetti in una sacca sotto il mento, e possono trasferire un singolo oggetto fra le mani e le guance come un'Azione Rapida. Il Lumeris può poi rigettare l'intero contenuto delle guance sul terreno nel suo quadretto come Azione di Movimento che non provoca Attacchi d'Opportunità.
 - **Scurovisione**: i Lumeris riescono a Vedere al Buio fino ad una distanza di 18 metri.
-- **Pensieri Velenosi**: alcuni Lumeris possiedono ancora un sangue molto velenoso per la maggior parte delle creature viventi e l'evoluzione li ha portati ad estendere questa capacità persino ai loro pensieri. Se una creatura entra in contatto con il sangue di tali Lumeris o tenta di leggerne i pensieri rischia di essere colpito dal loro veleno. 1d4 For CD Tempra 10 + metà livello del Lumeris + Mod Cos
 - **Nuotatori Naturali**: i Lumeris hanno velocità base 9 metri e velocità di Nuotare 18 metri.
 Inoltre ottengono un hanno bonus +4 alle prove di Furtività mentre sono in acqua.
 I Lumeris possiodono il tratto naturale *Respirare Sott'Acqua*.
@@ -70,3 +69,5 @@ Effettuata quest'azione ottiene un bonus momentaneo di +6 alle prove di cammuffa
 Sostituisce *Contrattatore*.
 - **Pelle Mimetica**: alcuni Lumeris possono manipolare la pigmentazione della loro pelle a volontà e con estrema precisione, creando vivaci motivi decorativi o ingannevoli mimetizzazioni. Un Lumeris che rimane fermo per 1 round ottiene Bonus Razziale +10 alle prove di Furtività questo bonus non si cumula con l'incantesimo Invisibilità o effetti simili), ma se effettua qualsiasi azione perde il bonus finché non trascorre nuovamente 1 round rimanendo fermo. Se il Lumeris indossa abiti o armature che coprono più di un metà del suo corpo, il bonus si riduce della metà. Se l'intero corpo è coperto perde l'interezza del bonus.
 Sostituisce *Contrattatore*.
+- **Pensieri Velenosi**: alcuni Lumeris possiedono ancora un sangue molto velenoso per la maggior parte delle creature viventi e l'evoluzione li ha portati ad estendere questa capacità persino ai loro pensieri. Se una creatura entra in contatto con il sangue di tali Lumeris o tenta di leggerne i pensieri rischia di essere colpito dal loro veleno. 1d4 For CD Tempra 10 + metà livello del Lumeris + Mod Cos.
+Sostituisce *Trimorfismo*.
